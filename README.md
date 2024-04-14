@@ -1,7 +1,5 @@
-# Tugas-Akhir-PWD
-Pemrograman Web Dinamis (PWD) - Website : 'Computer Based Test (CBT)'
-
+# Tugas Akhir PWD
 Final Project PWD (Pemrograman Web Dinamis)
-- Website CBT (Computer Based Test)
+- Website : CBT (Computer Based Test)
 
 Dosen : Maryam S.Kom. M.Eng.
